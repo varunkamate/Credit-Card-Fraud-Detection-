@@ -1,6 +1,7 @@
 💳 Credit Card Fraud Detection App
 
 
+📊 Dataset:===> https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 LIVE APP LINK:=====> https://gcuv7nsu7wb5bxqwigzt6m.streamlit.app/
 
 This project is a Streamlit web application that predicts whether a given credit card transaction is fraudulent or legitimate using a trained Random Forest Classifier model.
@@ -50,6 +51,3 @@ Random_Forest_best_model.pkl – Trained Random Forest model
 
 requirements.txt – Required dependencies
 
-📊 Dataset
-
-Kaggle Credit Card Fraud Detection Dataset
